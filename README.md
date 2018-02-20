@@ -1,7 +1,8 @@
 Project Description
 ===================
 That is a Python project for EECE5644 17778 Machine Learn/Pattern Recogntn SEC 01 
-It aims to gather and visualize movie data from imdb, and save the data for later analytical use.
+It gathers movie data from imdb by web crawling application, and save the data in MongoDB for later analytical use.
+Then a web site is build to visualize the movie data. It shows the basic information and with a simple function of searching, getting top rated movies etc.
 
 Author:
 Guan Gui

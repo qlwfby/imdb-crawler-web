@@ -1,9 +1,13 @@
 Project Description
 ===================
-That is a simple Python project illustrating the use of the following:
+That is a Python project for EECE5644 17778 Machine Learn/Pattern Recogntn SEC 01 
+It aims to gather and visualize movie data from imdb, and save the data for later analytical use.
+
+Author:
+Guan Gui
 
 1. Scrapy (scraping and crawling framework)
-1. Flask (micro web development framework based on Werkzeug)
+2. Flask (micro web development framework based on Werkzeug)
 
 The project is split up into two subprojects located in the respective folders.
 We firstly scrape the Internet Movie Database (imdb) with the aim to get
